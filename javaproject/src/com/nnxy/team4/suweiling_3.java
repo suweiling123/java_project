@@ -5,7 +5,7 @@ public class suweiling_3 {
 	private int id;
 	public int getid() {
 		
-		return id + 10;
+		return id + 1000;
 	}
 	
 	public void setID(int id) {
