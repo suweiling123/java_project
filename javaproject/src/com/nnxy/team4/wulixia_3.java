@@ -5,7 +5,7 @@ public class wulixia_3 {
 	private int author;
 	public int getid() {
 		
-		return author ;
+		return author  +100 ;
 	}
 	
 	public void setID(int id) {
